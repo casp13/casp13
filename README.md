@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un estudiante de ingeniería de sistemas y cómputo con experiencia en varios lenguajes de programación, incluyendo Python, Java, C++, HTML, C y JavaScript. He trabajado en varios proyectos universitarios utilizando estas tecnologías y estoy emocionado por seguir aprendiendo y desarrollando mis habilidades
+I am a computer and systems engineering student with experience in several programming languages, including Python, Java, C++, HTML, C, and JavaScript. I have worked on several university projects using these technologies and am excited to continue learning and developing my skills.
 
 
 ## 🌐 Socials:
